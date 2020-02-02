@@ -25,3 +25,11 @@ Fields in CSV file:
 - MD5
 - SHA1
 - SHA256
+
+**Tool:** Metahash.zip
+
+Usage: Metahash.exe FILENAME
+Produces a hash of Filversion info strikgs, i.e.:
+
+c:\> metahash Metahash.exe 
+mh:636a13ef8c5eea079d5a264dab77684a
