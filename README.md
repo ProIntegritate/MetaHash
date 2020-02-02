@@ -12,7 +12,7 @@ The Metahash is a product of concatenating the following FileVersionInfo strings
 
 Metahashes have a bit less entropy and they can match more malware, but are also prone for false positives. Note that no version numbers are included in the hashing process (i.e. *FileVersion, ProductVersion, Assembly Version*).
 
-![Test Image ](Corellation.png)
+![CorellationImage](Corellation.png)
 
 *Image above showing Metahash (left), Richhash (middle) and conventional file hashes (right), showing relationships over other hashes. Please note that not all files have Richheaders or Filversioninfo though. Data shown is 4 different "strains" of Emotet, normally separated under the richhashes, but here the Metahash binds all 4 "strains" together.*
 
@@ -31,10 +31,7 @@ Fields in CSV file:
 **Tool:** Metahash.zip
 
 Usage: Metahash.exe FILENAME = produces a hash of Filversion info strings, i.e.:
-
-c\:\\> metahash Metahash.exe
-
-mh:636a13ef8c5eea079d5a264dab77684a
+![Example](Example.png)
 
 **Hash-signatures for "Metahash.exe":**
 
