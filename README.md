@@ -12,6 +12,8 @@ The Metahash is a product of concatenating the following FileVersionInfo strings
 
 ![Test Image ](Corellation.png)
 
+*Images showing Metahash, Richhash and conventional file hashes. Not all files have Richheaders or Filversioninfo though.*
+
 Result is shown as:
 - mh: MD5_HASH = File contains FileVersionInfo (at least one string)
 - \- = Contains absolutely no FileVersionInfo strings.
