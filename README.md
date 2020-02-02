@@ -34,5 +34,5 @@ Fields in CSV file:
 Usage: Metahash.exe FILENAME
 Produces a hash of Filversion info strings, i.e.:
 
-c:\> metahash Metahash.exe 
+c\:\\> metahash Metahash.exe 
 mh:636a13ef8c5eea079d5a264dab77684a
