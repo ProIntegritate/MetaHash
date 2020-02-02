@@ -14,8 +14,7 @@ Metahashes have a bit less entropy and they can match more malware, but are also
 
 ![Test Image ](Corellation.png)
 
-*Images showing Metahash (left), Richhash (middle) and conventional file hashes (right), showing relationships over other hashes.
-Please note that not all files have Richheaders or Filversioninfo though.*
+*Image above showing Metahash (left), Richhash (middle) and conventional file hashes (right), showing relationships over other hashes. Please note that not all files have Richheaders or Filversioninfo though. Data shown is 4 different "strains" of Emotet, nornally seprarated under the richhashes, but here the Metahash binds all 4 "strains" together.*
 
 Result is shown as:
 - mh: MD5_HASH = File contains FileVersionInfo (at least one string)
