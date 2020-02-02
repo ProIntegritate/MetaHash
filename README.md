@@ -10,7 +10,9 @@ The Metahash is a product of concatenating the following FileVersionInfo strings
 - OriginalFilename
 - ProductName
 
-Shown as:
+![Test Image ](Corellation.png)
+
+Result is shown as:
 - mh: MD5_HASH = File contains FileVersionInfo (at least one string)
 - \- = Contains absolutely no FileVersionInfo strings.
 
