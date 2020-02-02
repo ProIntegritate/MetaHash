@@ -35,7 +35,7 @@ Usage: Metahash.exe FILENAME = produces a hash of Filversion info strings, i.e.:
 
 c\:\\> metahash Metahash.exe
 
-Produces mh:636a13ef8c5eea079d5a264dab77684a
+mh:636a13ef8c5eea079d5a264dab77684a
 
 **Hash-signatures for "Metahash.exe":**
 
