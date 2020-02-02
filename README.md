@@ -1,0 +1,2 @@
+# MetaHash
+Metahash (Hashed FileVersionInfo)
