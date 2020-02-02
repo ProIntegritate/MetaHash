@@ -10,7 +10,7 @@ The Metahash is a product of concatenating the following FileVersionInfo strings
 - OriginalFilename
 - ProductName
 
-Metahashes have a bit less entropy and they can match more malware, but are also prone for false positives. Not that no version numbers (which changes freqnently) are included in the hashing process (i.e. FileVersion, ProductVersion, Assembly Version).
+Metahashes have a bit less entropy and they can match more malware, but are also prone for false positives. Note that no version numbers are included in the hashing process (i.e. *FileVersion, ProductVersion, Assembly Version*).
 
 ![Test Image ](Corellation.png)
 
