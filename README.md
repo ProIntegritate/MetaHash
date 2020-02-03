@@ -20,7 +20,10 @@ Result is shown as:
 - mh: MD5_HASH = File contains FileVersionInfo (at least one string)
 - \- = Contains absolutely no FileVersionInfo strings.
 
-Example CSV file (**mh_rh_md5_sha1_sha256.csv**) included in this folder.
+Here is a network graph showing the same data in a more natural way:
+![Emotet_Graph](Emotet_Graph.png)
+
+An example CSV file (**mh_rh_md5_sha1_sha256.csv**) included in this folder.
 Fields in CSV file:
 - Metahash ("mh:")
 - Richhash ("rh:", "nh:")
