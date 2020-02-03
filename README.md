@@ -22,8 +22,11 @@ Result is shown as:
 
 Here is a network graph showing the same data in a more natural way:
 ![Emotet_Graph](Emotet_Graph.png)
+- Green = MetaHash
+- Blue = RichHash
+- Orange = FileHash (MD5)
 
-An example CSV file (**mh_rh_md5_sha1_sha256.csv**) included in this folder.
+An example CSV file **mh_rh_md5_sha1_sha256.csv**(...Csv.zip) included in this folder.
 Fields in CSV file:
 - Metahash ("mh:")
 - Richhash ("rh:", "nh:")
